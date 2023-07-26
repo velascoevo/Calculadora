@@ -25,7 +25,7 @@ def reset_calculator():
 
 def print_calculator_header():
     print("""
-    Dime, ¿qué quieres hacer?
+    Menu de opciones:
     1) Sumar los dos números
     2) Restar los dos números
     3) Multiplicar los dos números
