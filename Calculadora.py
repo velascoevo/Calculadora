@@ -25,7 +25,7 @@ def reset_calculator():
 
 def print_calculator_header():
     print("""
-    Menu de opciones:
+    Menu de opción:
     1) Sumar los dos números
     2) Restar los dos números
     3) Multiplicar los dos números
