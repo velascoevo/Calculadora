@@ -31,7 +31,7 @@ def print_calculator_header():
     3) Multiplicar los dos números
     4) Dividir los dos números
     5) Cambiar los números elegidos
-    6) Apagar calculadora
+    6) Cerrar el programa
     """)
 
 
